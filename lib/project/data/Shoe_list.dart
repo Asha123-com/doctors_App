@@ -9,7 +9,7 @@ List<ShoeModel>allShoes=[
       rating: "5",
       reviews: "1000k",
   ),
-  ShoeModel(
+  ShoeModel( 
     productName: "Nick",
     image: "assets/image",
     price: "1600",

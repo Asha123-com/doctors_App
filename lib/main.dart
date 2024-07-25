@@ -1,4 +1,5 @@
 import 'package:app_development_batch/dessup/pages/dessup%20page.dart';
+import 'package:app_development_batch/pages/Book_Page.dart';
 import 'package:app_development_batch/pages/ButtonNavigationBar.dart';
 import 'package:app_development_batch/pages/Dialogue%20method.dart';
 import 'package:app_development_batch/pages/SplashScreen.dart';
@@ -6,6 +7,7 @@ import 'package:app_development_batch/pages/carousel_slider.dart';
 import 'package:app_development_batch/pages/doctor_home.dart';
 import 'package:app_development_batch/pages/register.dart';
 import 'package:app_development_batch/pages/stack_prac.dart';
+import 'package:app_development_batch/project/pages/shoe_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
